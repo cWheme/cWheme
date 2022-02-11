@@ -1,6 +1,6 @@
 <img src="https://github.com/cPyrobyte/cPyrobyte/blob/main/banner.png" /> 
 
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=cPyrobyte&data=followers,repositories,stars,commits"></p>
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=cWheme&data=followers,repositories,stars,commits"></p>
 
 ```diff 
 💀 Age: 14.
@@ -20,8 +20,8 @@
 <br> 
 
 ## 😱 More Info
-<p align = "center"><img src="https://activity-graph.herokuapp.com/graph?username=cPyrobyte&theme=material-palenight"></p>
+<p align = "center"><img src="https://activity-graph.herokuapp.com/graph?username=cWheme&theme=material-palenight"></p>
 
-<p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=cPyrobyte&show_icons=true&theme=tokyonight" /></p>
+<p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=cWheme&show_icons=true&theme=tokyonight" /></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cPyrobyte&layout=compact&theme=blueberry" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cWheme&layout=compact&theme=blueberry" /></p>
